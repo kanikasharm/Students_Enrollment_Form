@@ -1,1 +1,5 @@
-# Students_Enrollment_Form
+Title : Student-Enrollment Form
+
+Description : A student Enrollment Form to store information in the STUDENT-TABLE relation of the SCHOOL-DB database. Input fields include Roll No, Full Name, Class, Birth Date, Address, and Enrollment Date. The primary key is Roll No.
+
+Benefits of using JsonPowerDB : The standout features of JsonPowerDB are its status as a pure JSON database, making JSON data handling seamless. Being the world's first IDBMS ensures efficient data management with indexing, and its lightning-fast performance is a big plus. The ready-to-use API and the unique combination of features, striking a balance between simplicity and performance, make development more efficient. The exclusive focus on JSON aligns perfectly with the project needs, making JsonPowerDB a powerful and streamlined solution. In addition, JsonPowerDB is a Real-time, High-Performance, Lightweight, and User-Friendly Rest API-based Multi-mode DBMS. It provides ready-to-use APIs for Json document DB, RDBMS, Key-value DB, GeoSpatial DB, and Time Series DB functionalities. JsonPowerDB supports and encourages true serverless and pluggable API development.
